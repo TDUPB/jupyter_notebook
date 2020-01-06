@@ -1,3 +1,5 @@
 ipywidgets
 matplotlib
 numpy
+bokeh
+ipython
