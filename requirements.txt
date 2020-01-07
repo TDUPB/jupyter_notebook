@@ -4,4 +4,4 @@ numpy
 bokeh
 ipython
 PyQtGraph
-PySide
+PySide2
