@@ -3,5 +3,4 @@ matplotlib
 numpy
 bokeh
 ipython
-pyqtgraph
-PyQt5
+PyQt4
