@@ -3,3 +3,6 @@ matplotlib
 numpy
 bokeh
 ipython
+pyqtgraph
+sys
+time
