@@ -1,0 +1,6 @@
+
+
+Auswahlmöglichkeiten Oszilloskop:
+
+Spannungsteiler (messkopf vgl. Oszilloskop)
+Time divison (bsp.: 2ms/ pro Zeiteinheit)
